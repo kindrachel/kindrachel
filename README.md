@@ -1,7 +1,7 @@
 # Hello, i'm Gurulev Andrey aka "antbled", python developer
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/kindrachel)
-[![](https://img.shields.io/badge/Telegram-0ab9e6?style=flat-square&logo=telegram&logoColor=white&label=Telegram&labelColor=0ab9e6)](https://t.me/antbled)
+[![](https://img.shields.io/badge/-@kindrachel-%23181717?style=flat-square&logo=github)](https://github.com/kindrachel)
+[![](https://img.shields.io/badge/Telegram-0ab9e6?style=flat-square&logo=telegram&logoColor=white&label=&labelColor=0ab9e6)](https://t.me/antbled)
 
  **⚡ I mainly specialize in aiogram libraries (Telegram bots), as well as fastapi**
 
